@@ -7,5 +7,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "faststore",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vtex/test-gh-dependabot-updates.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vtex/test-gh-dependabot-updates/issues"
+  },
+  "homepage": "https://github.com/vtex/test-gh-dependabot-updates#readme"
 }
